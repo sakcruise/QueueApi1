@@ -1,4 +1,4 @@
-[info] Updating {file:/C:/Users/Mithraa/IdeaProjects/qs/project/}qs-build...
+[info] Updating {file:/S:/Scala/My%20Projects/QueueApi1/qs/project/}qs-build...
 [debug] :: resolving dependencies :: default#qs-build;0.1-SNAPSHOT
 [debug] 	confs: [compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool]
 [debug] 	validate = true
@@ -6009,19 +6009,19 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#template-resolver;0.1!template-resolver.jar
 [debug] 	[NOT REQUIRED] org.scala-lang#jline;2.10.6!jline.jar
 [debug] 	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar
-[debug] :: resolution report :: resolve 3594ms :: artifacts dl 90ms
-[debug] 	report for default#qs-build;0.1-SNAPSHOT compile produced in C:\Users\Mithraa\IdeaProjects\qs\project\target\resolution-cache\reports\default-qs-build-compile.xml
-[debug] 	report for default#qs-build;0.1-SNAPSHOT runtime produced in C:\Users\Mithraa\IdeaProjects\qs\project\target\resolution-cache\reports\default-qs-build-runtime.xml
-[debug] 	report for default#qs-build;0.1-SNAPSHOT test produced in C:\Users\Mithraa\IdeaProjects\qs\project\target\resolution-cache\reports\default-qs-build-test.xml
-[debug] 	report for default#qs-build;0.1-SNAPSHOT provided produced in C:\Users\Mithraa\IdeaProjects\qs\project\target\resolution-cache\reports\default-qs-build-provided.xml
-[debug] 	report for default#qs-build;0.1-SNAPSHOT optional produced in C:\Users\Mithraa\IdeaProjects\qs\project\target\resolution-cache\reports\default-qs-build-optional.xml
-[debug] 	report for default#qs-build;0.1-SNAPSHOT compile-internal produced in C:\Users\Mithraa\IdeaProjects\qs\project\target\resolution-cache\reports\default-qs-build-compile-internal.xml
-[debug] 	report for default#qs-build;0.1-SNAPSHOT runtime-internal produced in C:\Users\Mithraa\IdeaProjects\qs\project\target\resolution-cache\reports\default-qs-build-runtime-internal.xml
-[debug] 	report for default#qs-build;0.1-SNAPSHOT test-internal produced in C:\Users\Mithraa\IdeaProjects\qs\project\target\resolution-cache\reports\default-qs-build-test-internal.xml
-[debug] 	report for default#qs-build;0.1-SNAPSHOT plugin produced in C:\Users\Mithraa\IdeaProjects\qs\project\target\resolution-cache\reports\default-qs-build-plugin.xml
-[debug] 	report for default#qs-build;0.1-SNAPSHOT sources produced in C:\Users\Mithraa\IdeaProjects\qs\project\target\resolution-cache\reports\default-qs-build-sources.xml
-[debug] 	report for default#qs-build;0.1-SNAPSHOT docs produced in C:\Users\Mithraa\IdeaProjects\qs\project\target\resolution-cache\reports\default-qs-build-docs.xml
-[debug] 	report for default#qs-build;0.1-SNAPSHOT pom produced in C:\Users\Mithraa\IdeaProjects\qs\project\target\resolution-cache\reports\default-qs-build-pom.xml
-[debug] 	report for default#qs-build;0.1-SNAPSHOT scala-tool produced in C:\Users\Mithraa\IdeaProjects\qs\project\target\resolution-cache\reports\default-qs-build-scala-tool.xml
-[debug] 	resolve done (3594ms resolve - 90ms download)
+[debug] :: resolution report :: resolve 3866ms :: artifacts dl 278ms
+[debug] 	report for default#qs-build;0.1-SNAPSHOT compile produced in S:\Scala\My Projects\QueueApi1\qs\project\target\resolution-cache\reports\default-qs-build-compile.xml
+[debug] 	report for default#qs-build;0.1-SNAPSHOT runtime produced in S:\Scala\My Projects\QueueApi1\qs\project\target\resolution-cache\reports\default-qs-build-runtime.xml
+[debug] 	report for default#qs-build;0.1-SNAPSHOT test produced in S:\Scala\My Projects\QueueApi1\qs\project\target\resolution-cache\reports\default-qs-build-test.xml
+[debug] 	report for default#qs-build;0.1-SNAPSHOT provided produced in S:\Scala\My Projects\QueueApi1\qs\project\target\resolution-cache\reports\default-qs-build-provided.xml
+[debug] 	report for default#qs-build;0.1-SNAPSHOT optional produced in S:\Scala\My Projects\QueueApi1\qs\project\target\resolution-cache\reports\default-qs-build-optional.xml
+[debug] 	report for default#qs-build;0.1-SNAPSHOT compile-internal produced in S:\Scala\My Projects\QueueApi1\qs\project\target\resolution-cache\reports\default-qs-build-compile-internal.xml
+[debug] 	report for default#qs-build;0.1-SNAPSHOT runtime-internal produced in S:\Scala\My Projects\QueueApi1\qs\project\target\resolution-cache\reports\default-qs-build-runtime-internal.xml
+[debug] 	report for default#qs-build;0.1-SNAPSHOT test-internal produced in S:\Scala\My Projects\QueueApi1\qs\project\target\resolution-cache\reports\default-qs-build-test-internal.xml
+[debug] 	report for default#qs-build;0.1-SNAPSHOT plugin produced in S:\Scala\My Projects\QueueApi1\qs\project\target\resolution-cache\reports\default-qs-build-plugin.xml
+[debug] 	report for default#qs-build;0.1-SNAPSHOT sources produced in S:\Scala\My Projects\QueueApi1\qs\project\target\resolution-cache\reports\default-qs-build-sources.xml
+[debug] 	report for default#qs-build;0.1-SNAPSHOT docs produced in S:\Scala\My Projects\QueueApi1\qs\project\target\resolution-cache\reports\default-qs-build-docs.xml
+[debug] 	report for default#qs-build;0.1-SNAPSHOT pom produced in S:\Scala\My Projects\QueueApi1\qs\project\target\resolution-cache\reports\default-qs-build-pom.xml
+[debug] 	report for default#qs-build;0.1-SNAPSHOT scala-tool produced in S:\Scala\My Projects\QueueApi1\qs\project\target\resolution-cache\reports\default-qs-build-scala-tool.xml
+[debug] 	resolve done (3866ms resolve - 278ms download)
 [info] Done updating.

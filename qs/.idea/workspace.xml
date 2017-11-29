@@ -46,8 +46,8 @@
       <file leaf-file-name="queue.scala" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/queue.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="96" column="2" lean-forward="false" selection-start-line="96" selection-start-column="2" selection-end-line="96" selection-end-column="2" />
+            <state relative-caret-position="272">
+              <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
                 <element signature="e#797#1602#0" expanded="false" />
@@ -69,6 +69,9 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
@@ -83,8 +86,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="952" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="765" />
+    <option name="y" value="52" />
     <option name="width" value="976" />
     <option name="height" value="1038" />
   </component>
@@ -104,7 +108,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -136,13 +141,17 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="qs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qs" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="AndroidView" />
-      <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -150,6 +159,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -266,7 +276,7 @@
     </recent_temporary>
   </component>
   <component name="SbtLocalSettings">
-    <option name="lastUpdateTimestamp" value="1511954637927" />
+    <option name="lastUpdateTimestamp" value="1511973989393" />
     <option name="availableProjects">
       <map>
         <entry>
@@ -309,31 +319,30 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
-    <editor active="true" />
+    <frame x="765" y="52" width="976" height="1038" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21929824" sideWeight="0.38489583" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21840355" sideWeight="0.5835073" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="SBT" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24122807" sideWeight="0.55260414" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24057649" sideWeight="0.5605428" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24057649" sideWeight="0.4394572" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24122807" sideWeight="0.44739583" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.096875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19415449" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="sbt-shell-toolwindow" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -352,6 +361,34 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/QueueApi.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="11" lean-forward="false" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="83" lean-forward="false" selection-start-line="10" selection-start-column="83" selection-end-line="10" selection-end-column="83" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/queue.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="96" column="0" lean-forward="true" selection-start-line="96" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#797#1602#0" expanded="false" />
+            <element signature="e#2362#2801#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/QueueApi.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -405,8 +442,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/queue.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="96" column="2" lean-forward="false" selection-start-line="96" selection-start-column="2" selection-end-line="96" selection-end-column="2" />
+        <state relative-caret-position="272">
+          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
             <element signature="e#797#1602#0" expanded="false" />
